@@ -4,7 +4,7 @@
 }
 
 body{
-    background-image: linear-gradient(rgba(247, 231, 231, 0.3),rgba(0,0,0,0.3)),url(photos/Login.jpg);
+    background-image: linear-gradient(rgba(247, 231, 231, 0.3),rgba(0,0,0,0.3)),url(./photos/Login.jpg);
     height : 100vh;
     background-size: cover;
     background-position: center;
