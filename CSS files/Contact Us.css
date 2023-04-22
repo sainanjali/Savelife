@@ -10,7 +10,7 @@ body,
 input,
 textarea {
   font-family: "Poppins", sans-serif;
-  background-image: linear-gradient(rgba(247, 231, 231, 0.3),rgba(0,0,0,0.3)),url('./photos/bg.jpg');
+  background-image: linear-gradient(rgba(247, 231, 231, 0.3),rgba(0,0,0,0.3)),url('../photos/bg.png');
   
 }
 
